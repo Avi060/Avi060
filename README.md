@@ -19,18 +19,11 @@ Languages:   C++ | Java | Python
 - Full-stack web development
 - Machine learning model development and deployment
 - Data analysis and visualization
-- RESTful API design and implementation
-- Database design and management
 
-### 🔭 I'm currently working on
-
-- [Project 1]: Brief description
-- [Project 2]: Brief description
-
+  
 ### 🌱 I'm currently learning
 
 - [BlockChain]
-- [Technology/Concept 2]
 
 ### 📫 How to reach me
 
